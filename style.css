@@ -1,0 +1,33 @@
+body{
+  background-color: aqua;
+  }
+#score{
+font-weight: bold;
+float: left;
+margin-left: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: x-large;
+}
+#timer{
+    font-weight: bold;
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    margin-right: 60px;
+}
+#sketch_name{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+#label{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#confidence{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
